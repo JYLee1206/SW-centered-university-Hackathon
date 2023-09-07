@@ -1,2 +1,2 @@
-# hackathon
+SW중심대학 해커톤
  
